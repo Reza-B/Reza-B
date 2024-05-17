@@ -5,23 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reza-b" alt="reza-b" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rezakuix" target="blank"><img src="https://img.shields.io/twitter/follow/rezakuix?logo=twitter&style=for-the-badge" alt="rezakuix" /></a> </p>
-
 - 🔭 I’m currently working on [Gizmo shop](#)
 
 - 🌱 I’m currently learning **NEXTJS**
 
-- 👨‍💻 All of my projects are available at [https://www.fake.com/](https://www.fake.com/)
-
 - 💬 Ask me about **ReactJS**
-
+  
 - 📫 How to reach me **dev.reza21@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  
+<!-- - 👨‍💻 All of my projects are available at [https://www.fake.com/](https://www.fake.com/) -->
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/rezakuix" target="blank"><img src="https://img.shields.io/twitter/follow/rezakuix?logo=twitter&style=for-the-badge" alt="rezakuix" /></a> </p>
 <p align="left">
 <a href="https://dev.to/rezab_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rezab_58" height="30" width="40" /></a>
 <a href="https://twitter.com/rezakuix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezakuix" height="30" width="40" /></a>
