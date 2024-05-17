@@ -1,5 +1,25 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A MERN stack developer from Iran </h3>
+<div align="center">
+  <!--<a href="">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="personalwebsite"/>
+  </a>-->
+  <a href="https://www.linkedin.com/in/reza-buzarjemehri/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Reza_dev21">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
+  </a>
+  <!--<a href="">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>-->
+  <a href="https://twitter.com/RezaKuiX">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/rezakuix">
+    <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ## 🚀 Skills:
 
