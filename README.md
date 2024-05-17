@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reza</h1>
+<h1 align="center">Hi 👋, I'm  Agha Reza</h1>
 <h3 align="center">A MERN stack developer from Iran </h3>
 
 ## 🚀 Skills:
