@@ -50,7 +50,7 @@
 <!-- - 👨‍💻 All of my projects are available at [https://www.fake.com/](https://www.fake.com/) -->
 </td>
 <td width="500" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-B&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-B&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </td>
 </table>
 <br>
