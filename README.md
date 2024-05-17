@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A MERN stack developer from Iran </h3>
 
-## </> Skills:
+## 🚀 Skills:
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
