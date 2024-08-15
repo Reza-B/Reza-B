@@ -39,7 +39,7 @@
 <table>
 <td width="500">
 
-- 🔭 I’m currently working on [Gizmo shop](#)
+- 🔭 I’m currently working on [Gizmo shop](https://gizmo-shop.ir/)
 
 - 🌱 I’m currently learning **NEXTJS** , **Tailwind CSS**
 
